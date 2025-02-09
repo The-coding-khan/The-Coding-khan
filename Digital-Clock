@@ -31,7 +31,10 @@
             <span class="time-2" id="period">AM</span>
             <span class="title-2">Period</span>
         </div>
-        
+            <div class="demo">
+                <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores veniam natus, amet minus obcaecati eum, ratione odit harum vel soluta magni molestias autem nemo quaerat ab, iusto quidem hic illum.</p>
+            </div>
+
     </div>
     
     <script src="script.js"></script>
